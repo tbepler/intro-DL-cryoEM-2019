@@ -7,10 +7,10 @@ This repository contains jupyter notebooks and download links for the data used 
 
 The notebooks have the following dependencies:
 
--pytorch (>= 1.0.0)
--topaz (==0.2.1)
--jupyter
--matplotlib
+- pytorch (>= 1.0.0)
+- topaz (==0.2.1)
+- jupyter
+- matplotlib
 
 These can be installed through conda with the following command
 ```
